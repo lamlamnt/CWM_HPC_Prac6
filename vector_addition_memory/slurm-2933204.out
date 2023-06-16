@@ -1,0 +1,2 @@
+Vector addition with coalesced memory access execution time: 0.995885
+Vector addition with uncoalesced memory access execution time: 15.876503
